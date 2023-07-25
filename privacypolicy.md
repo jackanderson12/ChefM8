@@ -1,4 +1,5 @@
 Privacy Policy for ChefM8 App
+
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can manage your information.
 
 1. Information We Collect

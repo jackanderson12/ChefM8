@@ -4,11 +4,11 @@ Welcome to the GitHub repository for ChefM8, your culinary companion for discove
 
 ## Support
 
-If you're experiencing issues or have questions about ChefM8, we're here to help. For support, please refer to our [SUPPORT.md](SUPPORT.md) document, which provides instructions on how to report bugs, ask questions, and request new features.
+If you're experiencing issues or have questions about ChefM8, we're here to help. For support, please refer to our [support.md](support.md) document, which provides instructions on how to report bugs, ask questions, and request new features.
 
 ## Privacy Policy
 
-Your privacy is important to us. We only collect and store the data necessary for you to use the application and do not share it with third parties. For more details, please refer to our [PRIVACYPOLICY.md](PRIVACYPOLICY.md).
+Your privacy is important to us. We only collect and store the data necessary for you to use the application and do not share it with third parties. For more details, please refer to our [privacypolicy.md](privacypolicy.md).
 
 ## Contributing
 

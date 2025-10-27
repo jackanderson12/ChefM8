@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-ChefM8 ("we," "our," or "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+ChefM8 respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 ## 2. Information We Collect
 

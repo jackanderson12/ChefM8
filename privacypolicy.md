@@ -20,7 +20,7 @@ Our Privacy Policy may change from time to time. We will post any privacy policy
 
 5. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at https://twitter.com/JandyDev.
+If you have any questions about this Privacy Policy, please contact us via email at jandy@jandy.dev
 
 Please note that by using ChefM8, you are agreeing to the terms of this Privacy Policy. If you do not agree with this policy, please do not access or use our services.
 

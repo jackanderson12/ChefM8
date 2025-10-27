@@ -1,6 +1,6 @@
 # ChefM8 Terms of Service
 
-**Last Updated: [Date]**
+**Last Updated: 10/27/2025**
 
 ## 1. Acceptance of Terms
 

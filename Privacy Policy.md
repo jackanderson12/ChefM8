@@ -1,4 +1,4 @@
-# ChefM9 Privacy Policy
+# ChefM8 Privacy Policy
 
 **Last Updated: 10/27/2025**
 
